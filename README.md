@@ -14,6 +14,8 @@ User can also check booking history
 React-Router-DOM used for routing
 
 Database Schema 
+<img width="587" alt="Screenshot 2024-05-15 115312" src="https://github.com/suyashsk/BusManagementProject/assets/72683316/80f9114d-6472-4b6f-972b-867eb2b2d4fb">
+
 
 
 How to Use/Control?
