@@ -1,6 +1,10 @@
 # BusEaseProject
 
 Make sure to use # npm install command to install node modules
+
+
+
+
 change this in package.json
 "start": "react-scripts --openssl-legacy-provider start",
 
